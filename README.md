@@ -96,6 +96,29 @@ OpenRouter'da kullandığın token kadar ödeme yaparsın (ön ödemeli sistem):
 
 ---
 
+## 📊 Kullanım ve Bakiye Takibi
+
+OpenRouter, hem kullanım detaylarını hem de bakiye durumunu kolayca takip etmeni sağlar.
+
+### 🔍 Kullanım Oranı ve Harcama Geçmişi
+
+1. [Activity sayfasına git](https://openrouter.ai/activity)
+2. Hangi modeli ne kadar kullandığını, kaç token harcandığını görebilirsin
+3. Her bir sorgu için ne kadar ödeme yapıldığını detaylı olarak inceleyebilirsin
+
+### 💰 Mevcut Bakiye Durumu
+
+1. [Credits sayfasına git](https://openrouter.ai/settings/credits)
+2. "Credits" kısmında kalan bakiyeni görebilirsin
+3. Geçmiş yüklemeleri ve harcamaları burada takip edebilirsin
+
+💡 Böylece ne kadar harcadığını kontrol edebilir, gerekirse düşük maliyetli modellerle kullanımını optimize edebilirsin (örneğin GPT-4o mini gibi).
+
+AskMeNow ile her mesajdan sonra sürpriz fatura yok. Kullandıkça öde, neye ne kadar gittiğini anlık takip et.
+
+---
+
+
 ## 📌 Yol Haritası
 
 - [ ] macOS & Linux desteği  

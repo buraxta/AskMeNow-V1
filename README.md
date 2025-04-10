@@ -72,6 +72,30 @@ AskMeNow: **Token başına ödeme** (kullandığın kadar öde)
 3. API anahtarını uygulamaya yapıştır
 4. Kullanmak istediğin modeli seç ve hemen sohbet etmeye başla!
 
+## 🔑 OpenRouter API Anahtarı Nasıl Alınır?
+
+1. [https://openrouter.ai](https://openrouter.ai) adresine git  
+2. Sağ üstten **Sign in with Google** veya **GitHub** ile giriş yap  
+3. Giriş yaptıktan sonra [API Keys](https://openrouter.ai/keys) sayfasına git  
+4. "Create API Key" butonuna bas ve çıkan anahtarı kopyala  
+5. Bu API anahtarını AskMeNow uygulamasına yapıştırarak kullanmaya başlayabilirsin
+
+⚠️ **API anahtarını kimseyle paylaşma!** Uygulamada sadece lokal olarak tutulur.
+
+## 💳 Bakiye Nasıl Yüklenir?
+
+OpenRouter'da kullandığın token kadar ödeme yaparsın (ön ödemeli sistem):
+
+1. [Credits sayfasına git](https://openrouter.ai/settings/credits)  
+2. "Add Credits" butonuna tıkla  
+3. Kredi kartı veya kripto ile bakiye yükle (minimum $5)
+4. Kullandıkça bakiyenden düşer
+
+💡 Farklı modellerin fiyatlarını görmek için:  
+[Model Pricing](https://openrouter.ai/models) sayfasını ziyaret et
+
+---
+
 ## 📌 Yol Haritası
 
 - [ ] macOS & Linux desteği  

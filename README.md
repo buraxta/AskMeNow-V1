@@ -91,8 +91,7 @@ OpenRouter'da kullandığın token kadar ödeme yaparsın (ön ödemeli sistem):
 3. Kredi kartı veya kripto ile bakiye yükle (minimum $5)
 4. Kullandıkça bakiyenden düşer
 
-💡 Farklı modellerin fiyatlarını görmek için:  
-[Model Pricing](https://openrouter.ai/models) sayfasını ziyaret et
+💡 Farklı modellerin fiyatlarını görmek için [Model Pricing](https://openrouter.ai/models) sayfasını ziyaret et
 
 ---
 
